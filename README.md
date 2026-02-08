@@ -10,6 +10,12 @@ Team Members:
 Purpose:
 This project is a resource for users to learn or master a foreign language. This is achieved by capturing the audio of the foreign movie that the user is watching then prompting the user with a question based on what the audio interpreted and teaches the user if they make an error.
 
+TO RUN:
+
+In LexiStream directory, type "source venv/bin/activate" in the terminal. Then repeat, "source whisper_env/bin/activate".
+After activating both venv and whisper, to run application, run python main.py.
+
+
 Tools Utilized:
 Python: The core programming language.
 OpenAI Whisper: Used for the local speech-to-text processing.
